@@ -6,7 +6,7 @@ $$ \sum_{|i| = n} \text{area}(\Delta_i)^\delta \to 0 $$
 
 as $n \to \infty$, in page 175 of [my PhD thesis](https://wrap.warwick.ac.uk/view/author_id/347116.html) and also in an upcoming preprint.
 
-This code is an adaptation of that in [this other repository](https://www.github.com/sewell-math/rauzy-gasket-upper), specifically, by ignoring the diameter factors by deleting $\lambda$, or equivalently setting it to zero.
+This code is an adaptation of that in [this other repository](https://www.github.com/sewell-math/rauzy-gasket-upper), specifically, by ignoring the diameter factors by deleting $\lambda$, or equivalently setting it to zero. For more details, see the [corresponding wiki](https://www.github.com/sewell-math/rauzy-gasket-upper/wiki) and above mentioned thesis.
 
 
 *** Values obtained
