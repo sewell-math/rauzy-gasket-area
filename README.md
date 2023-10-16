@@ -9,7 +9,7 @@ as $n \to \infty$, in page 175 of [my PhD thesis](https://wrap.warwick.ac.uk/vie
 This code is an adaptation of that in [this other repository](https://www.github.com/sewell-math/rauzy-gasket-upper), specifically, by ignoring the diameter factors by deleting $\lambda$, or equivalently setting it to zero. For more details, see the [corresponding wiki](https://www.github.com/sewell-math/rauzy-gasket-upper/wiki) and above mentioned thesis.
 
 
-*** Values obtained
+### Values obtained
 
 m | $\delta^{m}$
 --- | ---
