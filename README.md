@@ -1,6 +1,6 @@
 # Rauzy gasket
 
-This repository contains *rauzy-area.nb*, the Mathematica file used to confirm numerical estimates for $\delta^m$, which are upper bounds for the infimal value of $\delta$ for which
+This repository contains *rauzy-area.nb*, the Mathematica file used to confirm numerical estimates for $\delta^m$ and $\delta_m$, which are upper bounds for the infimal value of $\delta$ for which
 
 $$ \sum_{|i| = n} \text{area}(\Delta_i)^\delta \to 0 $$
 
